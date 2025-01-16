@@ -1,6 +1,3 @@
-# ENGINEERING-CONVERTER-UNITS
-to convert all the units that using in engineering calculation
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
