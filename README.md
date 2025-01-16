@@ -41,7 +41,6 @@
     </style>
 </head>
 <body>
-    <h1>Engineering Unit Converter</h1>
 
     <div class="converter">
         <label for="value">Enter value:</label>
